@@ -18,6 +18,9 @@
  * "display" in Linux or Irfanview in Mac/Windows.     *
  *******************************************************/
 
+// Author - Mustafa AL-Jaburi 
+// COSC4370 Fall 19 HW1 - University of Houston
+
 #include <iostream>
 #include <fstream>
 #include <cstdio>
